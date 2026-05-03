@@ -37,10 +37,6 @@ Lots of speculative Replit-named prototypes share the **same scaffolding** patte
 
 ### Contact
 
-_Update with your LinkedIn / site / timezone / email._
+_Update with your LinkedIn, portfolio site, timezone, and preferred contact email._
 
 - GitHub: [@sadruzzahan](https://github.com/sadruzzahan)
-
----
-
-<sub>Automated rollout note: Portfolio cleanup generated this README during a Cursor agent task — personalize contact lines before interviews.</sub>
