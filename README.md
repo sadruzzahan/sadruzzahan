@@ -1,5 +1,7 @@
 <h1 align="center">Sadruzzahan / zexorex</h1>
 
+<p align="center"><sub>This repository holds the GitHub <strong>profile README</strong> only (no application source code in-tree).</sub></p>
+
 <p align="center">
   I ship <strong>problem-first systems</strong> for buyers who pay to move faster: <strong>tutoring marketplaces</strong>, <strong>classroom-tied AI workspaces</strong>, <strong>operator-heavy commerce</strong>, <strong>legal-adjacent case tooling</strong>, and <strong>instrumented automation consoles</strong>—with Postgres-backed models so revenue and policy live in the data layer, not vibes.<br/>
   Comfortable owning <strong>Vite/React + Express</strong> monorepos, <strong>NestJS + Prisma</strong> splits, and pragmatic AI integrations when someone needs an outcome shipped, not a slideshow.<br/>
@@ -48,6 +50,6 @@ Lots of speculative Replit-named prototypes share the **same scaffolding** patte
 
 ### Contact
 
-_Update with your LinkedIn, portfolio site, timezone, and preferred contact email._
+_Add LinkedIn, portfolio, timezone, and email here if you use this README outside github.com/profile._
 
 - GitHub: [@sadruzzahan](https://github.com/sadruzzahan)
