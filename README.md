@@ -1,55 +1,51 @@
-<h1 align="center">Sadruzzahan / zexorex</h1>
+# Md Sadruzzahan Khan
 
-<p align="center"><sub>This repository holds the GitHub <strong>profile README</strong> only (no application source code in-tree).</sub></p>
-
-<p align="center">
-  I ship <strong>problem-first systems</strong> for buyers who pay to move faster: <strong>tutoring marketplaces</strong>, <strong>classroom-tied AI workspaces</strong>, <strong>operator-heavy commerce</strong>, <strong>legal-adjacent case tooling</strong>, and <strong>instrumented automation consoles</strong>—with Postgres-backed models so revenue and policy live in the data layer, not vibes.<br/>
-  Comfortable owning <strong>Vite/React + Express</strong> monorepos, <strong>NestJS + Prisma</strong> splits, and pragmatic AI integrations when someone needs an outcome shipped, not a slideshow.<br/>
-  Open to <strong>remote</strong> product engineering roles and serious <strong>freelance / contract</strong> engagements where scope, compliance, and delivery dates are explicit.
-</p>
-
-## 💼 Real-World Use Case
-Hiring managers and founders evaluating whether an engineer can **translate fuzzy briefs** into multi-role products (students/tutors/admins, buyers/sellers/ops, desk operators) **without** melting into undifferentiated prototype sprawl.
-
-## 💰 Potential Value
-- You get **evidence-backed breadth**: a live education workspace on Vercel, a Prisma/Nest tutor marketplace, agri-commerce with dense admin routes, defense case UX, and automation consoles—each README states honest demo status.
-- You reduce interview risk: shared patterns (<code>pnpm</code> workspaces, Zod contracts, Drizzle/Prisma) repeat on purpose so maintainers are not learning a new stack per repo.
-
-## 🚀 Demo / Access
-- **Live (public):** <a href="https://scholargenv20-main.vercel.app">ScholarGen v2 on Vercel</a> — Classroom-synced academic workspace.
-- **Other highlighted work:** clone the pinned repositories and follow their README quick starts (local Postgres, Clerk/Telegram keys where noted). Anything without a linked URL is intentionally <strong>self-hosted / local only</strong> until staging credentials exist.
+> Full-stack engineer working at the seam of **AI orchestration**, **legal/justice tech**, and **production-grade TypeScript monorepos**. I build end-to-end products — from PostgreSQL schema design to multi-agent SSE pipelines to polished React frontends — and ship them.
 
 ---
 
-### Pinned repositories (recommended)
+### Currently building
 
-| Repo | Built for users who need… |
-|------|---------------------------|
-| **[scholargen-v2](https://github.com/sadruzzahan/scholargen-v2)** | **Live classroom-synced AI coursework** — artifact + diagram pipelines · demo on **[Vercel](https://scholargenv20-main.vercel.app)** |
-| **[TuitionMedia](https://github.com/sadruzzahan/TuitionMedia)** | **A real tutorship marketplace** (requests → applications → trials/fees/sessions) on **Next.js 15 + NestJS + Prisma + Turbo** |
-| **[ultimate-trading-agent](https://github.com/sadruzzahan/ultimate-trading-agent)** | **Paper-first trading / desk automation** with Telegram + Postgres models + tests (compliance-aware positioning) |
-| **[KhanAgro](https://github.com/sadruzzahan/KhanAgro)** | **i18n food commerce** with operator-grade admin (broadcast, marketing experiments, analytics—not just a storefront skin) |
-| **[Briefcased](https://github.com/sadruzzahan/Briefcased)** | **Criminal-defense case workflows** — evidence, Brady/jury/plea surfaces, OCR/PDF tooling (demo posture; not legal advice) |
-| **[Beat](https://github.com/sadruzzahan/Beat)** | **Clerk-backed investigation planning** with recording affordances and agent inspection routes |
-
-_Use GitHub profile **pin** customization to mirror this table — six slots max._
+**[Briefcased](https://github.com/sadruzzahan/Briefcased)** — a case copilot for criminal-defense lawyers. 432 TS/TSX files, 147 pages, multi-AI orchestration (Vercel AI SDK over Anthropic / OpenAI / Gemini), Tesseract.js OCR, pdfjs-dist + jspdf for evidence handling, agent-driven Brady review, jury notes, plea-path analysis, and courtroom rehearsal mode. Public flagship of a planned three-repo merger into [**Lexor**](https://github.com/sadruzzahan/Lexor) — see the [merger plan](https://github.com/sadruzzahan/Lexor/blob/main/MERGER_PLAN.md).
 
 ---
 
-### Stack snapshot
+### Featured public work
 
-`TypeScript` · `React` · `Vite` · `Next.js` · `NestJS` · `Express` · `PostgreSQL` · `Drizzle` · `Prisma` · `TanStack Query` · `pnpm` / `TurboRepo` · `Clerk`
+| Project | What it is | Stack |
+|---|---|---|
+| **[Briefcased](https://github.com/sadruzzahan/Briefcased)** | Criminal-defense case copilot — OCR, PDF, multi-agent AI, courtroom rehearsal | React 19 · Vite · Express 5 · Drizzle · pgvector · Vercel AI SDK |
+| **[Lexor](https://github.com/sadruzzahan/Lexor)** | Consumer legal-help SPA with SSE streaming pipeline (vision → classify → grounding → rules → draft → complaints → embedding → adversary → coalition); Twilio voice + WhatsApp intake; curated CA/TX/NY + federal statute corpus | Vite · Express 5 · Drizzle · pgvector · Anthropic · Twilio |
+| **[Beat](https://github.com/sadruzzahan/Beat)** | "Detective Field Kit" — multi-agent investigation with Mastra workflows, jurisdiction detection, parallel scene/witness/suspect agents, SSE streaming, chain-of-custody data model | React · Vite · Express 5 · Drizzle · Mastra · Tavily · Multi-AI |
+| **[Agent-Economy-OS](https://github.com/sadruzzahan/Agent-Economy-OS)** | A platform where AI agents are first-class economic actors — wallets, escrow, reputation, Stripe-funded balances, and a Bearer-token runtime API for autonomous agents | React 19 · Wouter · Clerk · Express 5 · Drizzle · Stripe |
+| **[TuitionMedia](https://github.com/sadruzzahan/TuitionMedia)** | Bangladesh-localised student ↔ tutor marketplace — full lifecycle (requests → applications → trials → sessions → payments → reviews → messaging) with bKash / Nagad and Socket.IO notifications | Next.js 15 · NestJS · Prisma · PostgreSQL · Turborepo |
 
 ---
 
-### Hiring signal hygiene (what I intentionally avoid)
+### Specialties
 
-Lots of speculative Replit-named prototypes share the **same scaffolding** patterns on this profile. **Only pin the differentiated row above.** Archive/mark the rest unless each one has a rewritten README proving a distinct thesis.
+- **Multi-agent AI orchestration** — SSE-streamed pipelines, Mastra workflows, multi-provider fallback, sandboxed tool use (E2B), web research (Tavily), structured citation verification.
+- **Production TypeScript monorepos** — pnpm workspaces, OpenAPI 3.1 → Orval codegen (typed React Query hooks + Zod schemas), Drizzle ORM with proper migrations, strict TypeScript, esbuild API bundles.
+- **Real database design** — composite reputation scoring, escrow ledgers with `balance_after` snapshots, pgvector embeddings, chain-of-custody, role-pack constrained schemas designed for cross-product reuse.
+- **Domain modeling for hard-to-model worlds** — criminal defense, consumer legal complaints, multi-tenant agent economies, B2C marketplaces, autonomous trading systems.
 
 ---
 
-### Contact
+### Tech I use daily
 
-_Add LinkedIn, portfolio, timezone, and email here if you use this README outside github.com/profile._
+`TypeScript` · `React 19` · `Vite` · `Wouter` · `TanStack Query` · `Tailwind` · `shadcn/ui` · `Framer Motion` · `Express 5` · `PostgreSQL` · `Drizzle ORM` · `Zod` · `pgvector` · `OpenAPI 3.1` · `Orval` · `Clerk` · `Vercel AI SDK` · `Anthropic` · `OpenAI` · `Gemini` · `Mastra` · `Tavily` · `E2B` · `Tesseract.js` · `pdfjs-dist` · `Twilio` · `Stripe` · `pnpm` · `esbuild` · `Pino` · `Playwright`
+
+---
+
+### GitHub
+
+![Sadruzzahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadruzzahan&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadruzzahan&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+### Reach me
 
 - GitHub: [@sadruzzahan](https://github.com/sadruzzahan)
+
+> Open to collaboration on legal/justice tech, AI agent infrastructure, and serious B2C products.
